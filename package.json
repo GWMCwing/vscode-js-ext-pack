@@ -1,0 +1,27 @@
+{
+  "name": "js-ext-pack",
+  "displayName": "Javascript Extension Pack",
+  "description": "Custom Javascript extension pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "christian-kohler.npm-intellisense", 
+    "circledev.glsl-canvas", 
+    "dbaeumer.vscode-eslint", 
+    "donjayamanne.jquerysnippets", 
+    "dsznajder.es7-react-js-snippets", 
+    "ecmel.vscode-html-css", 
+    "firefox-devtools.vscode-firefox-debug", 
+    "humao.rest-client", 
+    "pranaygp.vscode-css-peek", 
+    "rbbit.typescript-hero", 
+    "ritwickdey.LiveServer", 
+    "samplavigne.p5-vscode", 
+    "xabikos.JavaScriptSnippets"
+  ]
+}
